@@ -1,2 +1,0 @@
-# apartaLab
-Apartalab final 
